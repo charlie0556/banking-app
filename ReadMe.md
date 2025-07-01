@@ -46,4 +46,23 @@ Today I aim to set up the basics of the program, this will include:
 
 - Setting up file directories ✅
 - Implimenting git version tracking ✅
-- Preparing click 🚧
+- Preparing click ✅
+
+I have completed all the tasks I wshed to complete today
+
+positives: 
+
+- understanding git a lot more 
+- understanding click to a relative degree
+
+negatives:
+
+- Have been using copilot and feel it is too much, may remove on day two 
+
+-----------Project day two-----------------
+
+
+Today I aim to finish the basics of creating user details, this will include:
+
+- cyber secure hashing for passowrds
+- 

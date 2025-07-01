@@ -49,7 +49,7 @@ def passowrd_check(create_passoword):
     return create_passoword
 		
 def pin_check(create_pin):
-	while len(int(create_pin)) != 4 and create_pin.isdigit():
+	while create_pin > 9999 or create_pin < 0000 and create_pin.isdigit():
 		click.echo("PIN must be exactly 4 digits.")
 		create_pin = click.prompt('Please create a 4-digit PIN', type=int, default='0000')
 	return create_pin
